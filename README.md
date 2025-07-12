@@ -405,15 +405,14 @@ java -jar target/ecommerce-api-0.0.1-SNAPSHOT.jar
 4. Push a la rama (`git push origin feature/caracteristica-increible`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
 ## 👨‍💻 Autor
 
-**Alejandro**
-- Email: [tu-email@ejemplo.com]
-- LinkedIn: [tu-perfil-linkedin]
+Alejandro Arango Calderón
+📍 Medellín, Colombia
+📧 alejodim27@gmail.com
+🔗 LinkedIn
+🐙 GitHub
 
 ## 🙏 Agradecimientos
 
